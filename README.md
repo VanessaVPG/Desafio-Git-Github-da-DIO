@@ -1,4 +1,4 @@
-#Esse é o desafio de Git da DIO
+# Esse é o desafio de Git da DIO
  - Aprendemos sobre como iniciar um git
  - Como add um git
  - Como ver um status de git
